@@ -1,0 +1,6 @@
+spacy
+pdfplumber
+python-docx
+pandas
+matplotlib
+ipywidgets
