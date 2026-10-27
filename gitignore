@@ -1,0 +1,23 @@
+# Python cache files
+
+**pycache**/
+*.py[cod]
+
+# Jupyter checkpoints
+
+.ipynb_checkpoints/
+
+# Local databases
+
+*.db
+*.sqlite
+*.sqlite3
+
+# Environment files
+
+.env
+
+# Temporary files
+
+temp/
+tmp/
